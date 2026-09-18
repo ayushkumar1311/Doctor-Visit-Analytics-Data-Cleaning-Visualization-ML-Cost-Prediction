@@ -1,0 +1,1016 @@
+Patient_ID,Age,Gender,Visit_Reason,Specialty,Wait_Time_Min,Insurance_Type,Visit_Cost
+1,69.0,M,Routine Checkup,Dermatology,76,Uninsured,839.09
+2,32.0,FEMALE,Consultation,Dermatology,-15,Private,449.1
+3,78.0,FEMALE,Consultation,Orthopedics,63,Medicaid,1078.69
+4,38.0,female,Follow-up,General Practice,8,Medicaid,443.66
+5,41.0,Male,Follow-up,Orthopedics,71,Medicaid,1361.15
+6,20.0,Female,Consultation,Neurology,33,Medicaid,593.35
+7,39.0,M,Urgent Care,Dermatology,33,Uninsured,847.31
+8,70.0,Male,Consultation,Cardiology,32,Uninsured,123.33
+9,19.0,Male,Follow-up,Neurology,81,Medicare,667.88
+10,47.0,female,Routine Checkup,Dermatology,83,Uninsured,1256.93
+11,55.0,Female,Routine Checkup,Orthopedics,48,Medicare,1218.19
+12,19.0,M,Urgent Care,Neurology,8,Medicare,375.26
+13,81.0,Female,Consultation,Dermatology,13,Medicaid,377.81
+14,77.0,female,,General Practice,9,Uninsured,1235.09
+15,38.0,FEMALE,Consultation,General Practice,60,Uninsured,1399.08
+16,50.0,Male,Follow-up,Cardiology,88,Medicare,188.27
+17,75.0,M,Routine Checkup,Dermatology,54,Medicare,702.59
+18,39.0,FEMALE,Urgent Care,General Practice,79,Private,539.31
+19,66.0,female,Follow-up,Orthopedics,19,Private,1312.5
+20,76.0,Female,Urgent Care,Dermatology,36,Medicare,171.11
+21,59.0,Male,Follow-up,Orthopedics,32,Private,356.13
+22,77.0,M,Routine Checkup,Orthopedics,26,Private,1141.08
+23,32.0,FEMALE,Urgent Care,General Practice,21,Medicare,124.38
+24,79.0,FEMALE,Urgent Care,Dermatology,63,Medicare,764.18
+25,79.0,Male,Follow-up,Neurology,75,Uninsured,691.06
+26,64.0,Female,Urgent Care,General Practice,61,Medicare,534.88
+27,79.0,female,Follow-up,General Practice,30,Medicare,622.13
+28,68.0,Female,Follow-up,Dermatology,29,Medicaid,818.41
+29,72.0,Female,Follow-up,Dermatology,14,Uninsured,283.98
+30,81.0,Female,Follow-up,Orthopedics,49,Uninsured,879.39
+31,20.0,Male,Routine Checkup,Dermatology,87,Uninsured,1217.88
+32,,Male,Follow-up,Orthopedics,15,Medicaid,1152.23
+33,24.0,female,Consultation,General Practice,81,Medicare,273.15
+34,150.0,Female,Urgent Care,Cardiology,57,Uninsured,266.41
+35,56.0,Male,Consultation,Neurology,76,Uninsured,438.85
+36,35.0,female,Routine Checkup,General Practice,72,Private,573.56
+37,21.0,female,Consultation,Dermatology,32,Uninsured,642.26
+38,77.0,Female,Urgent Care,Neurology,79,Medicare,1035.56
+39,31.0,M,Consultation,Cardiology,69,Medicare,132.19
+40,26.0,Female,Routine Checkup,Cardiology,53,Private,100.28
+41,70.0,M,Follow-up,Orthopedics,51,Uninsured,618.27
+42,19.0,female,Consultation,Neurology,56,Uninsured,1060.89
+43,77.0,Male,Routine Checkup,Orthopedics,58,Uninsured,330.48
+44,61.0,FEMALE,Routine Checkup,General Practice,64,Medicaid,980.18
+45,25.0,female,,Neurology,61,Uninsured,426.75
+46,64.0,Male,Urgent Care,General Practice,51,Medicare,1334.82
+47,52.0,female,Consultation,Orthopedics,35,Medicare,1348.75
+48,53.0,Female,Follow-up,Neurology,50,Medicaid,481.07
+49,67.0,M,Routine Checkup,Orthopedics,30,Medicaid,383.49
+50,21.0,female,Consultation,Neurology,9,Uninsured,646.39
+51,19.0,Male,Routine Checkup,Orthopedics,88,Private,398.77
+52,23.0,Female,Routine Checkup,Cardiology,56,Medicaid,1024.96
+53,71.0,FEMALE,Follow-up,Orthopedics,79,Medicaid,1247.79
+54,21.0,Female,Follow-up,Cardiology,58,Uninsured,1025.98
+55,71.0,M,Consultation,Orthopedics,37,Uninsured,1245.31
+56,80.0,Female,Follow-up,Neurology,54,Medicaid,625.64
+57,35.0,FEMALE,Follow-up,Neurology,42,Private,276.66
+58,61.0,Male,Consultation,Neurology,31,Medicaid,1120.03
+59,51.0,female,Follow-up,Dermatology,19,Uninsured,572.69
+60,79.0,M,Urgent Care,General Practice,65,Uninsured,1023.34
+61,31.0,FEMALE,,Neurology,25,Medicaid,442.43
+62,65.0,M,Routine Checkup,Cardiology,50,Private,167.78
+63,32.0,Female,Routine Checkup,Neurology,73,Medicaid,1489.24
+64,79.0,M,Routine Checkup,Dermatology,10,Medicaid,276.49
+65,57.0,FEMALE,Consultation,Cardiology,42,Uninsured,1483.21
+66,70.0,female,Routine Checkup,Dermatology,66,Private,1467.06
+67,41.0,female,Routine Checkup,Cardiology,66,Medicare,1201.04
+68,43.0,M,Routine Checkup,Orthopedics,86,Private,1006.16
+69,77.0,Male,Routine Checkup,General Practice,82,Medicaid,887.82
+70,58.0,M,Urgent Care,General Practice,-15,Medicaid,1305.85
+71,46.0,Female,Routine Checkup,Dermatology,50,Medicaid,469.69
+72,32.0,female,Urgent Care,General Practice,17,Private,728.14
+73,,female,Consultation,Dermatology,7,Uninsured,948.12
+74,82.0,female,Follow-up,Dermatology,10,Medicaid,646.23
+75,26.0,Male,Routine Checkup,Dermatology,12,Medicaid,669.86
+76,18.0,Male,Follow-up,General Practice,48,Private,528.91
+77,25.0,FEMALE,Follow-up,Dermatology,37,Medicare,868.14
+78,80.0,M,Consultation,General Practice,85,Medicare,1283.33
+79,28.0,M,Follow-up,Dermatology,79,Uninsured,342.22
+80,25.0,Female,Urgent Care,Neurology,81,Uninsured,1404.93
+81,52.0,female,Follow-up,Dermatology,54,Medicaid,1049.18
+82,52.0,Male,Follow-up,Cardiology,15,Private,1243.75
+83,50.0,Female,Follow-up,Dermatology,32,Medicaid,856.48
+84,22.0,Female,Routine Checkup,Orthopedics,74,Uninsured,1180.3
+85,58.0,Male,Routine Checkup,Dermatology,45,Private,73.49
+86,45.0,M,Urgent Care,Cardiology,20,Private,1236.65
+87,24.0,female,Urgent Care,Cardiology,72,Uninsured,108.2
+88,29.0,M,,General Practice,52,Medicare,1340.37
+89,51.0,Female,Urgent Care,Neurology,60,Medicare,1488.35
+90,50.0,female,Routine Checkup,Dermatology,68,Private,476.4
+91,65.0,FEMALE,Consultation,General Practice,63,Medicaid,354.96
+92,40.0,Female,Follow-up,Neurology,66,Medicare,1159.78
+93,150.0,M,Follow-up,Dermatology,80,Medicaid,416.89
+94,54.0,M,Urgent Care,Orthopedics,15,Medicare,1305.07
+95,61.0,M,Routine Checkup,Dermatology,22,Medicare,199.12
+96,52.0,Male,Routine Checkup,Cardiology,23,Medicaid,232.64
+97,82.0,Female,Urgent Care,Cardiology,59,Uninsured,1469.77
+98,64.0,female,Routine Checkup,Orthopedics,86,Medicare,1027.07
+99,20.0,M,Consultation,General Practice,30,Medicare,1277.99
+100,18.0,M,Follow-up,Neurology,10,Medicaid,520.28
+101,22.0,Male,Urgent Care,Dermatology,8,Uninsured,1030.9
+102,31.0,female,Urgent Care,Cardiology,33,Medicare,911.65
+103,44.0,Female,Routine Checkup,General Practice,-15,Medicare,924.57
+104,26.0,FEMALE,Urgent Care,Orthopedics,21,Uninsured,1039.67
+105,32.0,Male,Consultation,Cardiology,47,Medicare,884.27
+106,59.0,Female,Routine Checkup,Orthopedics,84,Uninsured,672.14
+107,68.0,FEMALE,Routine Checkup,Dermatology,70,Uninsured,450.09
+108,80.0,M,Routine Checkup,Neurology,38,Medicaid,1164.44
+109,69.0,M,Routine Checkup,Cardiology,12,Private,378.1
+110,21.0,female,Consultation,Cardiology,-15,Uninsured,1053.91
+111,40.0,FEMALE,Routine Checkup,Dermatology,12,Medicaid,388.33
+112,32.0,M,Urgent Care,General Practice,69,Private,956.73
+113,60.0,M,Consultation,Neurology,47,Medicare,1133.26
+114,46.0,female,Follow-up,Cardiology,43,Private,367.14
+115,53.0,Female,Follow-up,Neurology,85,Uninsured,136.92
+116,30.0,M,Urgent Care,Cardiology,63,Uninsured,239.91
+117,49.0,Male,Urgent Care,Neurology,-15,Uninsured,928.7
+118,76.0,Male,Consultation,Orthopedics,48,Uninsured,1281.7
+119,45.0,Female,Follow-up,Cardiology,13,Uninsured,115.25
+120,83.0,FEMALE,Follow-up,Neurology,-15,Medicaid,1114.52
+121,59.0,female,Follow-up,General Practice,78,Uninsured,544.91
+122,62.0,Male,Follow-up,Orthopedics,40,Medicaid,743.87
+123,79.0,Male,Follow-up,Orthopedics,32,Medicare,1396.85
+124,,Female,Routine Checkup,General Practice,-15,Uninsured,531.36
+125,23.0,FEMALE,Urgent Care,Neurology,47,Uninsured,724.74
+126,45.0,FEMALE,Routine Checkup,Dermatology,89,Private,69.84
+127,45.0,Female,Follow-up,General Practice,46,Medicare,168.32
+128,61.0,Male,Consultation,Neurology,70,Uninsured,424.96
+129,47.0,female,Consultation,General Practice,59,Uninsured,90.39
+130,79.0,Male,Follow-up,General Practice,76,Medicare,965.49
+131,79.0,FEMALE,Follow-up,Cardiology,52,Medicaid,668.28
+132,18.0,Male,Consultation,Neurology,26,Uninsured,844.81
+133,150.0,female,Routine Checkup,Dermatology,31,Private,303.24
+134,79.0,M,Routine Checkup,Cardiology,71,Uninsured,479.1
+135,20.0,Male,Follow-up,General Practice,17,Private,1012.55
+136,44.0,Female,Routine Checkup,General Practice,49,Private,1449.69
+137,26.0,M,Consultation,General Practice,14,Uninsured,123.1
+138,79.0,Female,Routine Checkup,Neurology,13,Uninsured,1341.06
+139,54.0,Female,Follow-up,Neurology,58,Private,886.48
+140,68.0,Female,Consultation,Cardiology,31,Medicare,867.68
+141,61.0,Male,Routine Checkup,Dermatology,38,Medicare,775.4
+142,41.0,FEMALE,Urgent Care,Cardiology,5,Uninsured,150.62
+143,76.0,M,Consultation,Orthopedics,36,Medicaid,180.32
+144,49.0,female,Consultation,General Practice,75,Medicare,921.32
+145,69.0,FEMALE,Urgent Care,General Practice,71,Uninsured,544.39
+146,79.0,Male,Urgent Care,General Practice,88,Medicare,1380.04
+147,75.0,Female,Consultation,Cardiology,24,Medicaid,639.56
+148,69.0,female,Urgent Care,Cardiology,39,Uninsured,257.76
+149,29.0,M,Follow-up,General Practice,82,Medicaid,1086.34
+150,56.0,FEMALE,Follow-up,Cardiology,21,Uninsured,475.36
+151,19.0,FEMALE,Follow-up,Neurology,22,Medicaid,811.93
+152,20.0,female,,Neurology,49,Medicare,1061.86
+153,73.0,Male,Urgent Care,Cardiology,88,Medicare,1355.38
+154,76.0,M,Urgent Care,General Practice,57,Medicaid,1198.68
+155,19.0,female,Routine Checkup,Cardiology,86,Medicaid,1030.72
+156,19.0,Female,Routine Checkup,Cardiology,-15,Medicaid,1035.47
+157,71.0,M,Urgent Care,Cardiology,69,Uninsured,1421.59
+158,18.0,FEMALE,Urgent Care,Orthopedics,5,Medicare,478.94
+159,36.0,female,Urgent Care,Neurology,62,Uninsured,51.61
+160,19.0,FEMALE,Consultation,Dermatology,30,Medicare,444.33
+161,70.0,FEMALE,Urgent Care,Dermatology,24,Private,365.94
+162,150.0,FEMALE,Routine Checkup,Orthopedics,14,Uninsured,1009.66
+163,49.0,Male,Consultation,Cardiology,63,Medicare,968.88
+164,49.0,FEMALE,,Orthopedics,79,Medicare,910.52
+165,72.0,Female,Routine Checkup,Orthopedics,45,Uninsured,73.55
+166,73.0,Female,Consultation,General Practice,9,Uninsured,1106.73
+167,34.0,M,Urgent Care,Neurology,69,Medicare,519.12
+168,55.0,FEMALE,Urgent Care,Dermatology,21,Uninsured,1014.33
+169,41.0,FEMALE,Urgent Care,Cardiology,26,Medicaid,857.04
+170,28.0,female,Consultation,Dermatology,45,Uninsured,546.96
+171,33.0,Male,Routine Checkup,Dermatology,72,Uninsured,245.14
+172,76.0,M,Routine Checkup,Neurology,73,Uninsured,186.91
+173,20.0,FEMALE,Follow-up,Dermatology,15,Medicare,1255.7
+174,37.0,female,Urgent Care,Dermatology,60,Medicaid,1381.68
+175,76.0,Male,Follow-up,Orthopedics,55,Private,992.19
+176,53.0,M,Follow-up,Neurology,25,Private,199.98
+177,36.0,M,Routine Checkup,General Practice,80,Medicaid,632.94
+178,84.0,FEMALE,Consultation,Cardiology,30,Medicaid,1106.96
+179,36.0,M,Consultation,Dermatology,23,Medicaid,1180.74
+180,37.0,female,Routine Checkup,Cardiology,64,Medicare,221.42
+181,69.0,M,Consultation,General Practice,75,Private,50.04
+182,50.0,Female,Follow-up,Cardiology,51,Medicaid,1082.6
+183,57.0,female,Urgent Care,General Practice,75,Medicare,567.06
+184,56.0,Male,,Orthopedics,30,Private,419.0
+185,18.0,Male,Urgent Care,Dermatology,44,Uninsured,68.7
+186,28.0,FEMALE,Consultation,General Practice,9,Medicare,833.43
+187,74.0,FEMALE,Urgent Care,Cardiology,25,Private,1284.17
+188,67.0,Female,Consultation,Dermatology,82,Medicare,1438.57
+189,40.0,Male,Consultation,Orthopedics,8,Private,870.33
+190,48.0,Male,Follow-up,Dermatology,27,Private,795.97
+191,59.0,Male,Consultation,General Practice,88,Uninsured,173.33
+192,24.0,Male,Follow-up,Orthopedics,19,Medicare,845.87
+193,33.0,M,Follow-up,Cardiology,12,Medicaid,600.97
+194,77.0,female,Follow-up,Orthopedics,45,Uninsured,930.35
+195,,female,Routine Checkup,Orthopedics,23,Uninsured,613.65
+196,18.0,Female,Routine Checkup,Neurology,50,Private,398.43
+197,65.0,M,Consultation,Orthopedics,32,Medicaid,187.7
+198,29.0,Male,Follow-up,Orthopedics,72,Medicare,506.63
+199,54.0,Male,Routine Checkup,Dermatology,19,Medicaid,190.14
+200,49.0,FEMALE,Follow-up,Cardiology,41,Medicaid,306.5
+201,26.0,FEMALE,Urgent Care,Dermatology,5,Medicaid,1481.64
+202,36.0,Female,Urgent Care,Dermatology,71,Medicaid,693.95
+203,65.0,Male,Urgent Care,General Practice,28,Medicaid,821.21
+204,20.0,Female,Consultation,Dermatology,31,Private,1316.75
+205,37.0,M,Follow-up,Neurology,44,Private,1493.57
+206,41.0,female,Urgent Care,Neurology,67,Uninsured,894.94
+207,71.0,Male,Routine Checkup,General Practice,65,Private,1228.09
+208,50.0,M,Urgent Care,Cardiology,40,Uninsured,524.06
+209,41.0,Male,Urgent Care,Cardiology,-15,Uninsured,493.33
+210,53.0,FEMALE,Urgent Care,Dermatology,28,Medicare,633.92
+211,55.0,Female,Consultation,Dermatology,8,Medicaid,1025.14
+212,42.0,FEMALE,Routine Checkup,Dermatology,71,Private,1039.18
+213,35.0,female,Follow-up,Cardiology,38,Medicare,507.1
+214,83.0,FEMALE,Routine Checkup,Orthopedics,61,Private,243.15
+215,71.0,Male,Follow-up,Neurology,53,Uninsured,966.97
+216,52.0,FEMALE,Consultation,Orthopedics,57,Private,236.07
+217,78.0,Male,Consultation,Orthopedics,27,Medicaid,888.81
+218,58.0,female,Consultation,Cardiology,73,Uninsured,1055.46
+219,50.0,FEMALE,Consultation,Orthopedics,57,Uninsured,1065.89
+220,50.0,Female,Follow-up,General Practice,-15,Medicare,1142.53
+221,31.0,Female,Urgent Care,Dermatology,45,Medicaid,1315.65
+222,38.0,Female,Follow-up,General Practice,61,Uninsured,774.94
+223,65.0,FEMALE,Routine Checkup,Neurology,64,Medicaid,1108.86
+224,,FEMALE,Consultation,Dermatology,58,Private,947.8
+225,,FEMALE,Consultation,Orthopedics,74,Medicaid,320.63
+226,24.0,Male,Routine Checkup,Neurology,61,Uninsured,87.25
+227,84.0,female,Follow-up,Dermatology,14,Medicare,462.59
+228,34.0,Female,Urgent Care,Orthopedics,44,Uninsured,692.4
+229,50.0,Male,Urgent Care,General Practice,11,Medicaid,944.8
+230,65.0,Female,Routine Checkup,Dermatology,42,Medicaid,1282.44
+231,76.0,Male,Urgent Care,Orthopedics,89,Uninsured,334.56
+232,39.0,FEMALE,Follow-up,General Practice,65,Medicaid,232.05
+233,47.0,Female,Follow-up,Neurology,88,Private,1447.05
+234,150.0,FEMALE,Routine Checkup,Neurology,7,Uninsured,206.66
+235,68.0,Female,Follow-up,Neurology,55,Medicare,743.81
+236,71.0,M,Consultation,Neurology,51,Uninsured,899.07
+237,25.0,Male,Routine Checkup,Cardiology,72,Private,834.99
+238,44.0,M,Follow-up,Dermatology,80,Private,174.75
+239,44.0,Male,Routine Checkup,Dermatology,42,Private,132.69
+240,38.0,female,Urgent Care,Cardiology,40,Private,202.95
+241,47.0,Female,Follow-up,Orthopedics,45,Private,899.1
+242,45.0,female,,Orthopedics,73,Medicare,839.3
+243,81.0,female,Follow-up,Neurology,17,Medicaid,388.92
+244,78.0,Male,Routine Checkup,General Practice,62,Private,974.77
+245,65.0,M,Routine Checkup,Orthopedics,54,Private,1239.1
+246,36.0,FEMALE,Follow-up,General Practice,-15,Uninsured,110.29
+247,21.0,Male,,Dermatology,66,Medicare,772.29
+248,52.0,FEMALE,Consultation,General Practice,29,Medicare,1049.5
+249,81.0,female,Consultation,Dermatology,31,Medicaid,415.85
+250,66.0,FEMALE,Routine Checkup,Cardiology,55,Medicare,496.27
+251,34.0,M,Follow-up,Cardiology,82,Uninsured,939.77
+252,61.0,Male,Urgent Care,Neurology,61,Uninsured,1352.01
+253,47.0,M,Routine Checkup,Orthopedics,51,Medicaid,1224.39
+254,63.0,M,Consultation,Neurology,43,Uninsured,895.54
+255,23.0,Male,Follow-up,Dermatology,20,Private,1108.82
+256,54.0,M,Consultation,Neurology,26,Private,578.99
+257,,Female,Urgent Care,General Practice,89,Uninsured,979.4
+258,63.0,Female,Consultation,Dermatology,58,Medicaid,725.96
+259,70.0,Female,Consultation,Cardiology,25,Medicare,325.41
+260,77.0,FEMALE,Urgent Care,Orthopedics,76,Medicaid,1067.52
+261,80.0,M,Follow-up,Dermatology,20,Medicare,856.87
+262,49.0,Male,Routine Checkup,Dermatology,63,Uninsured,570.0
+263,50.0,Male,Follow-up,General Practice,35,Uninsured,1371.44
+264,84.0,FEMALE,Urgent Care,Orthopedics,46,Private,80.35
+265,35.0,Male,,Cardiology,78,Medicare,507.87
+266,42.0,Female,Follow-up,Dermatology,36,Medicaid,132.48
+267,71.0,M,Routine Checkup,Dermatology,63,Uninsured,1161.46
+268,75.0,Male,,General Practice,38,Medicaid,1068.06
+269,84.0,Male,Follow-up,Neurology,13,Private,530.46
+270,63.0,female,Routine Checkup,Cardiology,85,Medicare,1029.71
+271,41.0,female,Urgent Care,Orthopedics,15,Medicare,624.11
+272,49.0,female,Routine Checkup,Dermatology,14,Uninsured,1146.57
+273,64.0,M,Urgent Care,Dermatology,21,Medicare,708.57
+274,,Female,Consultation,Cardiology,72,Uninsured,647.81
+275,83.0,Female,Follow-up,Neurology,52,Private,1405.36
+276,44.0,Female,Routine Checkup,Dermatology,56,Medicare,413.77
+277,19.0,M,Urgent Care,Cardiology,29,Uninsured,224.65
+278,34.0,M,Routine Checkup,General Practice,25,Medicaid,897.59
+279,50.0,female,Routine Checkup,Neurology,69,Uninsured,1455.52
+280,26.0,Male,Follow-up,Orthopedics,67,Medicare,597.87
+281,60.0,FEMALE,Consultation,Dermatology,55,Private,139.95
+282,65.0,FEMALE,Routine Checkup,Cardiology,40,Medicare,541.99
+283,56.0,Male,Urgent Care,General Practice,85,Medicare,783.6
+284,59.0,female,Urgent Care,Orthopedics,70,Uninsured,284.79
+285,43.0,Male,Consultation,Cardiology,19,Medicaid,1004.25
+286,67.0,Male,Urgent Care,Cardiology,43,Medicare,1496.74
+287,42.0,FEMALE,Consultation,Orthopedics,-15,Medicaid,705.02
+288,41.0,female,Urgent Care,General Practice,5,Uninsured,564.36
+289,30.0,M,Follow-up,General Practice,27,Medicaid,631.02
+290,77.0,FEMALE,,Neurology,43,Uninsured,216.96
+291,24.0,M,Follow-up,Dermatology,61,Private,1330.75
+292,74.0,female,Routine Checkup,Orthopedics,85,Medicaid,651.5
+293,53.0,Male,Routine Checkup,Orthopedics,38,Medicaid,611.55
+294,62.0,Female,Routine Checkup,Orthopedics,45,Private,1006.55
+295,37.0,Female,Follow-up,General Practice,77,Medicaid,690.95
+296,82.0,female,Routine Checkup,Dermatology,17,Private,989.94
+297,25.0,Female,Follow-up,Neurology,74,Medicare,139.1
+298,33.0,M,Consultation,Cardiology,10,Uninsured,1229.9
+299,,Female,Urgent Care,Cardiology,88,Private,1413.73
+300,32.0,female,Urgent Care,Orthopedics,56,Medicaid,990.71
+301,83.0,female,Routine Checkup,Dermatology,7,Private,1434.12
+302,49.0,M,Follow-up,General Practice,85,Medicaid,269.58
+303,80.0,Female,Urgent Care,Dermatology,67,Medicare,742.25
+304,68.0,Female,Follow-up,Dermatology,53,Private,922.62
+305,42.0,Male,Follow-up,General Practice,80,Medicare,893.52
+306,75.0,FEMALE,Routine Checkup,Orthopedics,51,Uninsured,632.12
+307,80.0,female,Urgent Care,Dermatology,59,Medicaid,540.22
+308,79.0,Male,Routine Checkup,Cardiology,68,Medicaid,233.89
+309,39.0,female,Routine Checkup,General Practice,69,Medicare,618.03
+310,75.0,Male,Urgent Care,Neurology,85,Uninsured,285.86
+311,75.0,FEMALE,Urgent Care,Orthopedics,71,Private,1114.83
+312,66.0,Male,Consultation,General Practice,19,Private,352.8
+313,69.0,female,Consultation,Neurology,36,Medicaid,134.92
+314,59.0,Female,Follow-up,Neurology,72,Medicare,850.93
+315,32.0,female,Urgent Care,Dermatology,22,Medicare,913.08
+316,71.0,M,Consultation,Dermatology,87,Private,1314.27
+317,77.0,M,Follow-up,Dermatology,47,Uninsured,886.62
+318,25.0,M,Follow-up,General Practice,39,Uninsured,550.95
+319,70.0,M,Follow-up,General Practice,82,Private,1214.37
+320,,FEMALE,Consultation,Orthopedics,62,Private,833.4
+321,22.0,Female,Urgent Care,Dermatology,37,Medicare,164.96
+322,23.0,Female,Routine Checkup,Neurology,18,Uninsured,870.48
+323,64.0,female,Follow-up,Cardiology,38,Private,1366.63
+324,72.0,Male,Consultation,Orthopedics,65,Private,624.65
+325,57.0,female,Consultation,General Practice,8,Medicaid,479.67
+326,,female,Routine Checkup,Orthopedics,63,Private,258.03
+327,33.0,female,Routine Checkup,Orthopedics,33,Private,269.6
+328,30.0,female,Consultation,Orthopedics,87,Uninsured,677.52
+329,47.0,Female,Urgent Care,Orthopedics,10,Medicare,913.74
+330,36.0,Male,Routine Checkup,Cardiology,53,Uninsured,166.89
+331,34.0,female,Consultation,Dermatology,44,Medicare,1412.37
+332,,Female,Routine Checkup,Neurology,87,Medicaid,1144.94
+333,36.0,female,Urgent Care,Orthopedics,69,Private,900.6
+334,75.0,M,Follow-up,Orthopedics,73,Medicaid,1251.24
+335,72.0,female,Routine Checkup,Orthopedics,31,Medicare,166.27
+336,79.0,female,Urgent Care,Dermatology,84,Uninsured,741.42
+337,40.0,FEMALE,Consultation,General Practice,10,Uninsured,963.64
+338,26.0,M,Routine Checkup,General Practice,17,Medicaid,1251.55
+339,29.0,Male,Routine Checkup,Cardiology,68,Medicare,1186.03
+340,18.0,female,Consultation,General Practice,66,Medicaid,451.75
+341,75.0,Male,Follow-up,Orthopedics,23,Medicaid,1414.28
+342,18.0,M,Consultation,Orthopedics,80,Private,230.3
+343,51.0,female,Routine Checkup,Orthopedics,84,Medicaid,1318.94
+344,65.0,FEMALE,Consultation,Cardiology,47,Private,1457.86
+345,18.0,Female,Urgent Care,Orthopedics,78,Private,306.87
+346,33.0,FEMALE,Consultation,General Practice,24,Uninsured,1097.0
+347,78.0,FEMALE,Routine Checkup,Dermatology,72,Private,108.41
+348,81.0,Female,Consultation,Dermatology,48,Private,637.86
+349,80.0,Female,Follow-up,Neurology,27,Uninsured,798.61
+350,39.0,Female,Consultation,General Practice,6,Medicaid,891.94
+351,84.0,female,Follow-up,Orthopedics,26,Medicare,1407.11
+352,43.0,Male,Urgent Care,Dermatology,61,Medicare,1024.76
+353,33.0,Male,Follow-up,General Practice,76,Medicare,747.85
+354,68.0,Female,Consultation,Dermatology,11,Medicaid,1224.03
+355,74.0,FEMALE,Routine Checkup,Orthopedics,82,Private,1428.27
+356,46.0,M,Follow-up,Dermatology,60,Medicare,82.0
+357,64.0,Female,Urgent Care,Neurology,71,Medicaid,1474.66
+358,79.0,FEMALE,Follow-up,Neurology,20,Private,174.89
+359,33.0,FEMALE,Follow-up,Dermatology,87,Uninsured,1230.86
+360,65.0,female,Follow-up,General Practice,55,Medicare,456.49
+361,56.0,female,Urgent Care,General Practice,86,Private,241.66
+362,50.0,Male,Consultation,General Practice,84,Medicare,687.79
+363,40.0,Male,Follow-up,Dermatology,76,Medicare,983.74
+364,27.0,M,Follow-up,General Practice,16,Medicare,602.38
+365,51.0,M,Routine Checkup,Orthopedics,57,Private,129.12
+366,69.0,M,Urgent Care,Neurology,79,Medicaid,919.22
+367,27.0,M,Follow-up,Orthopedics,9,Private,1358.48
+368,36.0,FEMALE,Urgent Care,General Practice,31,Medicare,605.66
+369,75.0,FEMALE,Follow-up,Orthopedics,16,Private,363.68
+370,18.0,Male,Consultation,General Practice,21,Uninsured,691.74
+371,21.0,female,Consultation,Dermatology,10,Medicaid,120.13
+372,33.0,female,Follow-up,Orthopedics,9,Private,1239.71
+373,41.0,Female,Consultation,Dermatology,61,Uninsured,1248.19
+374,19.0,FEMALE,Follow-up,Dermatology,32,Medicaid,902.6
+375,49.0,M,Consultation,Cardiology,82,Uninsured,562.0
+376,41.0,M,Routine Checkup,General Practice,73,Medicaid,1209.69
+377,29.0,Female,Routine Checkup,Neurology,63,Private,854.3
+378,67.0,female,Routine Checkup,General Practice,37,Uninsured,1247.6
+379,52.0,M,Urgent Care,Neurology,66,Medicare,965.62
+380,50.0,female,Urgent Care,General Practice,54,Uninsured,1187.39
+381,50.0,Female,Routine Checkup,Dermatology,23,Medicaid,917.92
+382,78.0,female,Urgent Care,Orthopedics,73,Private,650.5
+383,68.0,female,Consultation,Orthopedics,70,Medicaid,1439.02
+384,60.0,female,Follow-up,Cardiology,51,Uninsured,834.62
+385,29.0,M,Follow-up,Neurology,43,Uninsured,927.38
+386,84.0,Male,Follow-up,Neurology,72,Medicare,369.71
+387,82.0,FEMALE,Routine Checkup,Neurology,37,Private,957.19
+388,50.0,female,Urgent Care,Dermatology,17,Private,878.83
+389,57.0,female,Consultation,Neurology,88,Uninsured,318.02
+390,60.0,female,Consultation,Orthopedics,58,Private,136.4
+391,61.0,Male,Routine Checkup,Dermatology,11,Medicare,926.32
+392,46.0,Female,Consultation,General Practice,83,Medicaid,1157.35
+393,30.0,M,Consultation,Neurology,18,Private,808.93
+394,29.0,Male,Consultation,Neurology,23,Uninsured,378.82
+395,63.0,female,Consultation,General Practice,58,Medicaid,1016.46
+396,19.0,Male,Urgent Care,Neurology,24,Medicaid,166.15
+397,52.0,Male,Consultation,General Practice,33,Medicare,690.66
+398,25.0,Male,Follow-up,Dermatology,28,Uninsured,286.88
+399,43.0,Female,Routine Checkup,Orthopedics,86,Private,317.47
+400,51.0,FEMALE,Urgent Care,General Practice,67,Uninsured,343.33
+401,24.0,M,Consultation,Cardiology,78,Medicaid,610.73
+402,75.0,Female,Urgent Care,General Practice,61,Uninsured,124.17
+403,46.0,Female,Consultation,Neurology,12,Private,626.8
+404,53.0,FEMALE,Follow-up,Dermatology,66,Private,791.98
+405,38.0,Female,Routine Checkup,Dermatology,33,Medicare,750.78
+406,,Male,Consultation,General Practice,78,Private,605.04
+407,27.0,Male,Consultation,Orthopedics,21,Private,1266.76
+408,,female,Consultation,Cardiology,70,Uninsured,260.72
+409,81.0,Female,Consultation,Dermatology,10,Uninsured,783.26
+410,66.0,female,Routine Checkup,Neurology,62,Medicaid,139.96
+411,53.0,M,Routine Checkup,Neurology,73,Medicare,153.18
+412,41.0,Male,Follow-up,Orthopedics,32,Uninsured,882.11
+413,,M,Routine Checkup,Dermatology,66,Private,870.73
+414,79.0,FEMALE,Consultation,General Practice,45,Medicaid,1323.15
+415,54.0,Male,Follow-up,Neurology,73,Uninsured,858.92
+416,29.0,M,Follow-up,Orthopedics,86,Medicare,1441.7
+417,72.0,FEMALE,Follow-up,Dermatology,88,Medicare,120.61
+418,30.0,M,Consultation,Dermatology,45,Medicaid,192.11
+419,40.0,FEMALE,Urgent Care,Dermatology,-15,Medicaid,113.9
+420,47.0,FEMALE,Consultation,Dermatology,53,Medicaid,318.65
+421,34.0,Male,Routine Checkup,Dermatology,80,Medicaid,834.84
+422,79.0,female,Routine Checkup,Neurology,75,Medicaid,986.08
+423,30.0,FEMALE,Consultation,Orthopedics,7,Private,116.1
+424,76.0,FEMALE,Consultation,Dermatology,14,Private,1421.66
+425,36.0,Male,Follow-up,Cardiology,39,Uninsured,1271.14
+426,66.0,female,Consultation,Cardiology,84,Medicare,480.09
+427,29.0,Female,Follow-up,Orthopedics,6,Private,161.92
+428,78.0,Female,,General Practice,28,Private,296.34
+429,36.0,female,Follow-up,General Practice,78,Private,234.07
+430,26.0,M,Consultation,General Practice,42,Uninsured,228.76
+431,45.0,Male,Routine Checkup,Cardiology,26,Medicaid,801.91
+432,69.0,female,Urgent Care,General Practice,30,Uninsured,406.48
+433,33.0,Female,Follow-up,Neurology,47,Medicare,569.3
+434,29.0,FEMALE,Routine Checkup,Dermatology,59,Medicare,1484.78
+435,42.0,Female,Follow-up,Cardiology,43,Medicare,1042.26
+436,69.0,FEMALE,Routine Checkup,Orthopedics,33,Medicare,1426.02
+437,70.0,Male,Routine Checkup,Orthopedics,24,Private,256.71
+438,40.0,FEMALE,Follow-up,Dermatology,45,Private,604.1
+439,33.0,female,Urgent Care,Cardiology,58,Uninsured,854.36
+440,74.0,FEMALE,Routine Checkup,General Practice,24,Medicaid,161.3
+441,56.0,M,Routine Checkup,General Practice,23,Medicare,56.07
+442,70.0,female,Routine Checkup,Neurology,88,Uninsured,1022.13
+443,59.0,Male,Urgent Care,Neurology,70,Private,980.64
+444,75.0,female,Urgent Care,General Practice,34,Private,645.64
+445,56.0,M,Consultation,Orthopedics,57,Medicaid,759.98
+446,31.0,Male,Follow-up,Orthopedics,38,Medicaid,652.39
+447,22.0,Female,Urgent Care,Neurology,26,Medicaid,84.81
+448,52.0,M,Follow-up,Dermatology,71,Uninsured,536.29
+449,35.0,Male,Consultation,General Practice,10,Private,306.77
+450,26.0,FEMALE,Follow-up,Neurology,83,Private,192.72
+451,75.0,female,Urgent Care,Neurology,31,Medicaid,1437.24
+452,34.0,Male,Follow-up,General Practice,14,Medicare,919.07
+453,24.0,female,Urgent Care,General Practice,77,Medicaid,1106.55
+454,63.0,FEMALE,Follow-up,Orthopedics,52,Uninsured,507.28
+455,30.0,Male,Urgent Care,Dermatology,74,Medicaid,620.06
+456,57.0,Female,Urgent Care,Dermatology,63,Medicaid,393.54
+457,59.0,M,Follow-up,General Practice,63,Uninsured,190.6
+458,26.0,Male,Consultation,Cardiology,6,Medicaid,309.6
+459,67.0,FEMALE,Routine Checkup,Neurology,33,Private,1206.4
+460,44.0,Male,Consultation,Neurology,72,Medicare,1032.44
+461,83.0,female,Follow-up,General Practice,69,Medicaid,843.05
+462,22.0,Male,Consultation,Cardiology,87,Uninsured,738.88
+463,46.0,Female,Urgent Care,Orthopedics,30,Medicare,1387.53
+464,54.0,Male,Routine Checkup,General Practice,14,Uninsured,155.47
+465,55.0,M,Follow-up,General Practice,57,Medicare,456.87
+466,25.0,Male,Follow-up,Neurology,83,Medicare,557.41
+467,,female,,General Practice,63,Medicaid,1184.52
+468,34.0,Male,Routine Checkup,General Practice,26,Private,1489.15
+469,62.0,Female,Urgent Care,General Practice,55,Medicaid,398.97
+470,21.0,FEMALE,Follow-up,Neurology,52,Uninsured,1317.75
+471,53.0,Male,Consultation,Orthopedics,25,Uninsured,1254.4
+472,48.0,Male,Follow-up,Orthopedics,26,Medicare,375.75
+473,36.0,M,Follow-up,General Practice,34,Medicare,629.03
+474,78.0,Female,Follow-up,Neurology,29,Private,644.03
+475,71.0,FEMALE,Follow-up,Orthopedics,32,Medicaid,1468.42
+476,56.0,female,Urgent Care,Orthopedics,69,Uninsured,312.29
+477,36.0,Male,Consultation,Orthopedics,49,Medicare,1208.78
+478,56.0,FEMALE,Urgent Care,Neurology,72,Private,534.58
+479,84.0,female,Consultation,Neurology,11,Uninsured,1109.76
+480,62.0,Female,Follow-up,General Practice,53,Medicare,659.02
+481,30.0,Female,Routine Checkup,Dermatology,13,Uninsured,888.62
+482,75.0,FEMALE,Urgent Care,Orthopedics,40,Private,1257.29
+483,37.0,female,Routine Checkup,Dermatology,87,Private,1216.04
+484,150.0,Female,Urgent Care,Neurology,5,Uninsured,1306.31
+485,56.0,FEMALE,Follow-up,Neurology,14,Medicaid,136.45
+486,18.0,Female,Urgent Care,Neurology,40,Uninsured,1053.47
+487,20.0,Female,Follow-up,Dermatology,77,Medicare,252.98
+488,79.0,Female,Urgent Care,Neurology,50,Medicaid,652.94
+489,80.0,M,Follow-up,General Practice,36,Medicare,845.45
+490,42.0,female,Follow-up,Neurology,36,Uninsured,633.97
+491,73.0,FEMALE,Consultation,Cardiology,10,Medicaid,803.44
+492,50.0,FEMALE,Follow-up,Dermatology,52,Medicare,1494.96
+493,55.0,female,Consultation,Cardiology,42,Uninsured,246.07
+494,23.0,female,Follow-up,Neurology,21,Uninsured,1029.41
+495,75.0,female,Routine Checkup,General Practice,78,Medicaid,624.2
+496,61.0,female,Follow-up,Orthopedics,31,Uninsured,242.86
+497,62.0,Male,Routine Checkup,Neurology,58,Private,280.17
+498,49.0,FEMALE,Routine Checkup,General Practice,54,Medicare,1426.45
+499,62.0,Male,Follow-up,Dermatology,39,Medicare,1325.42
+500,78.0,Female,Routine Checkup,Cardiology,89,Uninsured,1365.21
+501,64.0,Female,Consultation,Cardiology,29,Uninsured,1487.72
+502,38.0,FEMALE,Urgent Care,Cardiology,32,Private,352.06
+503,53.0,Female,Follow-up,Dermatology,19,Medicaid,565.39
+504,36.0,female,Routine Checkup,General Practice,8,Uninsured,1020.37
+505,37.0,Male,Follow-up,Dermatology,77,Uninsured,751.51
+506,74.0,female,Consultation,Cardiology,31,Uninsured,656.66
+507,35.0,Female,Follow-up,Neurology,30,Uninsured,568.83
+508,150.0,Male,Follow-up,Orthopedics,23,Medicare,910.98
+509,66.0,female,Routine Checkup,Dermatology,21,Uninsured,884.61
+510,31.0,FEMALE,Consultation,Dermatology,47,Medicare,284.11
+511,32.0,female,Urgent Care,General Practice,45,Uninsured,734.02
+512,48.0,Female,Urgent Care,General Practice,46,Medicaid,852.53
+513,18.0,Male,Routine Checkup,Dermatology,54,Private,876.92
+514,71.0,FEMALE,Follow-up,Cardiology,88,Medicaid,354.66
+515,20.0,Male,Routine Checkup,Orthopedics,44,Uninsured,1126.29
+516,33.0,FEMALE,Routine Checkup,General Practice,43,Uninsured,86.54
+517,74.0,Male,Routine Checkup,Cardiology,27,Uninsured,564.51
+518,29.0,Female,Follow-up,Neurology,56,Medicaid,1181.31
+519,33.0,FEMALE,Consultation,General Practice,51,Uninsured,867.64
+520,41.0,M,Routine Checkup,Cardiology,67,Medicaid,428.69
+521,45.0,Male,Follow-up,Cardiology,73,Medicare,1057.68
+522,25.0,Male,Consultation,Orthopedics,47,Private,872.72
+523,53.0,female,Routine Checkup,Orthopedics,52,Private,1204.55
+524,25.0,FEMALE,Urgent Care,Neurology,38,Medicaid,1115.79
+525,75.0,M,Consultation,Cardiology,44,Medicare,934.66
+526,77.0,Female,Routine Checkup,Cardiology,79,Medicaid,757.86
+527,67.0,female,Consultation,Orthopedics,65,Medicare,243.11
+528,45.0,M,Consultation,General Practice,54,Uninsured,428.93
+529,58.0,FEMALE,Consultation,General Practice,71,Medicare,657.69
+530,81.0,M,Consultation,Dermatology,66,Medicare,918.98
+531,150.0,Male,Consultation,Orthopedics,62,Medicare,794.88
+532,80.0,Male,Consultation,Dermatology,37,Private,467.87
+533,34.0,female,Routine Checkup,Orthopedics,79,Medicare,59.37
+534,50.0,FEMALE,Urgent Care,Neurology,20,Uninsured,769.55
+535,46.0,FEMALE,Follow-up,Cardiology,86,Uninsured,464.16
+536,30.0,M,Consultation,Neurology,52,Uninsured,1115.18
+537,,female,Follow-up,Orthopedics,14,Medicare,84.72
+538,,FEMALE,Routine Checkup,Cardiology,86,Medicaid,898.0
+539,23.0,Male,Consultation,General Practice,42,Medicaid,1415.14
+540,64.0,M,Urgent Care,General Practice,23,Uninsured,302.89
+541,42.0,Female,Follow-up,Dermatology,40,Private,733.89
+542,83.0,Male,Consultation,Orthopedics,63,Medicaid,182.56
+543,27.0,female,Routine Checkup,Orthopedics,67,Medicare,957.24
+544,73.0,FEMALE,Urgent Care,General Practice,81,Medicaid,848.27
+545,47.0,Male,Follow-up,Neurology,50,Uninsured,640.68
+546,22.0,Female,Follow-up,Cardiology,7,Private,806.0
+547,50.0,Female,Consultation,Neurology,78,Medicaid,1350.03
+548,82.0,female,Urgent Care,Neurology,69,Medicaid,334.63
+549,,Male,Urgent Care,General Practice,12,Uninsured,82.72
+550,66.0,M,Urgent Care,General Practice,55,Private,1299.41
+551,28.0,Male,Urgent Care,General Practice,85,Private,886.82
+552,43.0,Female,Routine Checkup,Dermatology,77,Uninsured,1341.45
+553,80.0,female,Urgent Care,Neurology,10,Medicare,915.57
+554,76.0,female,Follow-up,Orthopedics,43,Medicaid,1224.73
+555,44.0,M,Follow-up,Cardiology,-15,Medicare,673.03
+556,66.0,female,Routine Checkup,Dermatology,32,Medicaid,1137.3
+557,50.0,female,Follow-up,Orthopedics,58,Medicaid,1373.91
+558,18.0,female,Follow-up,Neurology,41,Medicare,879.58
+559,38.0,female,Urgent Care,General Practice,13,Uninsured,312.14
+560,72.0,female,Follow-up,Neurology,86,Uninsured,439.76
+561,23.0,Female,Routine Checkup,Cardiology,60,Medicaid,338.03
+562,22.0,Male,Urgent Care,Dermatology,63,Uninsured,407.94
+563,20.0,FEMALE,Consultation,Dermatology,89,Medicaid,494.3
+564,70.0,female,Urgent Care,Cardiology,6,Uninsured,854.94
+565,40.0,FEMALE,Routine Checkup,Orthopedics,65,Medicaid,902.59
+566,70.0,FEMALE,Urgent Care,Orthopedics,62,Uninsured,668.42
+567,54.0,Female,Urgent Care,Dermatology,64,Private,942.36
+568,34.0,female,Routine Checkup,Dermatology,44,Medicare,168.28
+569,18.0,FEMALE,Urgent Care,General Practice,40,Private,177.29
+570,68.0,female,Routine Checkup,Orthopedics,41,Medicare,299.15
+571,62.0,M,Routine Checkup,Cardiology,83,Medicare,801.21
+572,21.0,M,Consultation,Orthopedics,22,Medicaid,360.29
+573,79.0,M,Follow-up,General Practice,67,Medicare,460.76
+574,82.0,FEMALE,Follow-up,Dermatology,26,Private,630.45
+575,49.0,M,Urgent Care,Dermatology,15,Private,1227.21
+576,51.0,Female,Urgent Care,General Practice,62,Uninsured,70.1
+577,56.0,Female,Consultation,Cardiology,61,Private,991.6
+578,43.0,FEMALE,Consultation,Dermatology,81,Uninsured,1019.87
+579,,female,Consultation,Neurology,8,Medicare,1208.05
+580,71.0,Male,Routine Checkup,Dermatology,-15,Private,1402.49
+581,20.0,female,Consultation,Neurology,65,Medicare,79.2
+582,67.0,female,Consultation,General Practice,58,Private,272.99
+583,29.0,female,Urgent Care,General Practice,72,Private,1334.95
+584,82.0,female,Consultation,Dermatology,83,Uninsured,714.85
+585,71.0,Male,Routine Checkup,Orthopedics,5,Medicare,868.66
+586,22.0,M,Routine Checkup,Neurology,59,Private,1011.39
+587,74.0,female,,Cardiology,7,Medicaid,1034.65
+588,34.0,Female,Consultation,Dermatology,82,Medicare,1401.02
+589,64.0,FEMALE,Consultation,Cardiology,42,Medicare,1495.58
+590,40.0,FEMALE,Routine Checkup,Dermatology,5,Medicare,1094.23
+591,31.0,Female,Consultation,Orthopedics,42,Uninsured,466.47
+592,83.0,female,Consultation,Orthopedics,89,Medicaid,1325.64
+593,68.0,Male,Consultation,Orthopedics,33,Medicare,121.37
+594,55.0,M,Follow-up,Orthopedics,9,Private,385.07
+595,150.0,FEMALE,Urgent Care,General Practice,78,Private,1351.21
+596,55.0,M,Follow-up,General Practice,25,Uninsured,421.48
+597,67.0,Male,Urgent Care,Neurology,75,Private,369.94
+598,47.0,FEMALE,Routine Checkup,Cardiology,71,Medicare,250.28
+599,68.0,M,Consultation,Dermatology,51,Private,1295.71
+600,80.0,Male,Urgent Care,Dermatology,88,Medicare,775.08
+601,69.0,M,Follow-up,General Practice,87,Private,1028.6
+602,55.0,female,Consultation,Dermatology,39,Medicaid,396.65
+603,47.0,Male,Routine Checkup,General Practice,72,Uninsured,1149.16
+604,68.0,M,Urgent Care,Neurology,73,Uninsured,1152.01
+605,22.0,female,Urgent Care,Cardiology,5,Medicaid,503.27
+606,46.0,female,Urgent Care,Neurology,72,Medicaid,645.49
+607,21.0,Male,Consultation,Orthopedics,16,Uninsured,354.05
+608,27.0,Female,Follow-up,Orthopedics,64,Medicaid,1466.01
+609,73.0,FEMALE,Follow-up,Orthopedics,31,Medicare,986.12
+610,34.0,Male,Urgent Care,Neurology,60,Private,1405.09
+611,34.0,female,Routine Checkup,Dermatology,27,Uninsured,489.91
+612,51.0,female,Routine Checkup,Cardiology,29,Medicaid,1183.74
+613,23.0,Male,Follow-up,Orthopedics,25,Medicare,1160.5
+614,70.0,Female,Routine Checkup,Orthopedics,65,Uninsured,1052.9
+615,83.0,FEMALE,Follow-up,Orthopedics,67,Medicaid,1450.18
+616,60.0,M,Urgent Care,Cardiology,56,Uninsured,620.66
+617,40.0,Male,Follow-up,Orthopedics,29,Medicaid,239.54
+618,72.0,FEMALE,Follow-up,Cardiology,59,Uninsured,1023.98
+619,33.0,FEMALE,Urgent Care,Orthopedics,50,Medicare,1107.5
+620,25.0,female,Routine Checkup,Neurology,36,Medicare,883.84
+621,150.0,M,Follow-up,Neurology,59,Private,349.89
+622,21.0,Male,Follow-up,Cardiology,9,Uninsured,781.46
+623,73.0,female,Urgent Care,Neurology,40,Private,502.68
+624,42.0,female,Routine Checkup,Cardiology,53,Uninsured,669.83
+625,84.0,Female,Follow-up,Neurology,62,Medicaid,985.57
+626,84.0,FEMALE,Urgent Care,Neurology,43,Medicaid,1130.56
+627,44.0,Male,Follow-up,Cardiology,84,Private,386.73
+628,49.0,Male,Consultation,Dermatology,89,Uninsured,637.72
+629,67.0,Male,Urgent Care,Neurology,65,Private,440.28
+630,78.0,female,Routine Checkup,Orthopedics,13,Medicare,338.02
+631,68.0,Female,Routine Checkup,Dermatology,10,Private,1185.91
+632,36.0,M,Routine Checkup,Cardiology,39,Private,1368.42
+633,38.0,female,,Dermatology,43,Medicaid,586.84
+634,22.0,M,Follow-up,General Practice,26,Private,1139.35
+635,59.0,Female,Follow-up,General Practice,45,Uninsured,1350.64
+636,78.0,FEMALE,Routine Checkup,Neurology,9,Medicaid,1276.88
+637,39.0,Male,Routine Checkup,Neurology,46,Private,315.08
+638,38.0,M,Routine Checkup,Orthopedics,85,Medicare,1436.62
+639,18.0,female,Follow-up,Dermatology,80,Private,596.18
+640,22.0,M,Routine Checkup,General Practice,84,Private,541.9
+641,29.0,FEMALE,Routine Checkup,Neurology,71,Private,140.53
+642,63.0,Male,Consultation,Dermatology,34,Medicaid,754.95
+643,51.0,M,Consultation,Neurology,61,Uninsured,208.07
+644,66.0,FEMALE,Routine Checkup,Neurology,77,Medicare,410.38
+645,62.0,female,Urgent Care,General Practice,33,Private,509.57
+646,44.0,Female,Routine Checkup,General Practice,41,Uninsured,1222.8
+647,43.0,female,Consultation,Neurology,17,Uninsured,1319.46
+648,64.0,Male,Urgent Care,Cardiology,36,Medicaid,488.58
+649,73.0,female,Urgent Care,Neurology,50,Medicare,1295.11
+650,80.0,female,Routine Checkup,Neurology,27,Medicaid,1292.98
+651,65.0,female,Consultation,Orthopedics,49,Uninsured,1158.74
+652,78.0,female,Consultation,Orthopedics,21,Uninsured,262.71
+653,43.0,Male,Urgent Care,Orthopedics,89,Uninsured,1050.97
+654,53.0,FEMALE,Routine Checkup,Cardiology,70,Medicaid,1420.28
+655,18.0,M,Follow-up,Cardiology,10,Medicare,1039.68
+656,25.0,Female,Follow-up,Neurology,22,Private,530.84
+657,69.0,M,,Orthopedics,26,Medicaid,775.84
+658,64.0,M,Follow-up,Cardiology,37,Uninsured,986.3
+659,73.0,Female,Consultation,General Practice,34,Medicaid,790.33
+660,31.0,Male,Consultation,Neurology,85,Uninsured,223.93
+661,45.0,Female,Consultation,Dermatology,36,Private,502.49
+662,19.0,Male,Follow-up,Neurology,46,Private,1213.47
+663,43.0,M,Consultation,Dermatology,82,Medicare,1299.06
+664,,Male,Urgent Care,Orthopedics,14,Uninsured,249.09
+665,76.0,FEMALE,Routine Checkup,Dermatology,40,Medicare,1430.96
+666,73.0,Female,Routine Checkup,Orthopedics,38,Medicare,526.79
+667,24.0,FEMALE,Consultation,General Practice,77,Private,1010.35
+668,20.0,M,Routine Checkup,Dermatology,32,Medicaid,1140.15
+669,40.0,Female,Follow-up,Neurology,15,Medicaid,1227.32
+670,,M,Follow-up,Orthopedics,82,Medicare,1421.34
+671,55.0,FEMALE,Routine Checkup,Neurology,43,Private,503.73
+672,32.0,M,Follow-up,Cardiology,51,Uninsured,1294.83
+673,81.0,Female,Routine Checkup,Orthopedics,23,Medicaid,240.95
+674,45.0,Female,Routine Checkup,Dermatology,19,Medicare,1072.31
+675,56.0,M,Routine Checkup,Orthopedics,32,Medicaid,1125.87
+676,74.0,Female,Consultation,Neurology,28,Medicaid,1032.7
+677,34.0,Female,Routine Checkup,General Practice,76,Uninsured,415.86
+678,,M,Consultation,Orthopedics,13,Private,1315.91
+679,42.0,FEMALE,Routine Checkup,Dermatology,51,Uninsured,294.84
+680,34.0,Female,Routine Checkup,Cardiology,37,Private,127.77
+681,30.0,Female,Routine Checkup,General Practice,66,Medicaid,1090.32
+682,42.0,Female,Follow-up,Cardiology,23,Medicare,739.44
+683,27.0,Female,Consultation,Orthopedics,71,Uninsured,1281.19
+684,84.0,M,Consultation,Neurology,78,Private,605.93
+685,35.0,FEMALE,Routine Checkup,Neurology,44,Medicaid,294.0
+686,51.0,FEMALE,Routine Checkup,Dermatology,51,Private,1262.84
+687,25.0,Male,Follow-up,Neurology,-15,Private,845.92
+688,57.0,Female,Follow-up,General Practice,33,Private,324.33
+689,59.0,Female,Follow-up,Neurology,54,Medicaid,1094.56
+690,58.0,Male,Consultation,Dermatology,17,Medicare,791.11
+691,23.0,FEMALE,Consultation,Orthopedics,5,Medicare,926.25
+692,,female,Consultation,Orthopedics,38,Medicare,718.3
+693,43.0,female,Routine Checkup,Neurology,52,Private,1251.63
+694,81.0,FEMALE,Consultation,Cardiology,81,Medicaid,1252.87
+695,76.0,Female,Urgent Care,Orthopedics,52,Private,1078.61
+696,73.0,female,Urgent Care,Neurology,53,Medicare,202.83
+697,76.0,M,Follow-up,Dermatology,68,Medicare,1266.34
+698,50.0,M,Consultation,Neurology,65,Medicaid,1022.97
+699,70.0,Male,Urgent Care,Orthopedics,33,Private,1060.69
+700,39.0,FEMALE,Follow-up,Dermatology,43,Uninsured,576.33
+701,38.0,FEMALE,Consultation,Neurology,30,Uninsured,1324.96
+702,21.0,female,Routine Checkup,General Practice,21,Medicare,1101.79
+703,79.0,Female,Urgent Care,Dermatology,75,Medicaid,213.26
+704,79.0,FEMALE,Routine Checkup,General Practice,17,Private,641.28
+705,150.0,female,Consultation,Cardiology,73,Private,1335.25
+706,72.0,female,Urgent Care,Dermatology,30,Medicare,118.44
+707,26.0,FEMALE,Consultation,General Practice,53,Medicare,1444.05
+708,20.0,female,Routine Checkup,Orthopedics,71,Private,1034.79
+709,48.0,Male,Urgent Care,Orthopedics,11,Private,965.5
+710,57.0,Male,Routine Checkup,Cardiology,62,Medicare,442.31
+711,53.0,FEMALE,Consultation,Dermatology,53,Private,410.75
+712,41.0,Female,Consultation,Dermatology,57,Uninsured,1415.98
+713,23.0,Male,Routine Checkup,Dermatology,69,Medicare,482.5
+714,83.0,Male,Urgent Care,Cardiology,66,Private,1174.48
+715,21.0,FEMALE,Routine Checkup,Dermatology,21,Medicare,620.03
+716,23.0,M,Consultation,Orthopedics,47,Medicaid,251.92
+717,68.0,female,Routine Checkup,General Practice,29,Medicare,65.54
+718,79.0,Male,Consultation,Orthopedics,7,Medicare,839.17
+719,74.0,M,Routine Checkup,Orthopedics,83,Medicaid,1464.88
+720,83.0,Female,Urgent Care,General Practice,33,Uninsured,585.25
+721,25.0,M,Urgent Care,Orthopedics,36,Private,567.93
+722,43.0,FEMALE,Routine Checkup,Cardiology,30,Medicaid,548.93
+723,68.0,Female,Routine Checkup,General Practice,20,Medicare,804.79
+724,62.0,Female,Urgent Care,Orthopedics,29,Private,688.96
+725,61.0,M,Consultation,Neurology,58,Medicaid,1325.88
+726,22.0,FEMALE,Urgent Care,Orthopedics,32,Private,783.01
+727,43.0,Male,Consultation,Cardiology,77,Private,786.25
+728,36.0,M,Routine Checkup,Dermatology,60,Medicaid,250.64
+729,37.0,Male,Routine Checkup,Orthopedics,69,Private,1474.97
+730,29.0,M,Consultation,Dermatology,84,Uninsured,412.46
+731,64.0,Male,Routine Checkup,Neurology,45,Medicaid,156.38
+732,18.0,M,Consultation,Orthopedics,55,Uninsured,1011.56
+733,31.0,Female,Follow-up,General Practice,75,Medicare,913.28
+734,81.0,female,Urgent Care,Dermatology,82,Private,651.96
+735,55.0,Female,Follow-up,Neurology,33,Medicare,662.18
+736,54.0,Male,Consultation,General Practice,87,Medicare,1188.34
+737,28.0,FEMALE,Urgent Care,General Practice,23,Private,333.78
+738,20.0,Female,Consultation,General Practice,70,Medicaid,1239.37
+739,50.0,female,Urgent Care,General Practice,45,Private,990.68
+740,23.0,Male,Urgent Care,Orthopedics,49,Medicare,657.51
+741,67.0,Female,Urgent Care,Orthopedics,19,Medicare,714.14
+742,27.0,M,Urgent Care,Orthopedics,7,Medicaid,422.14
+743,22.0,FEMALE,Consultation,Neurology,15,Private,1140.57
+744,40.0,Male,Urgent Care,Neurology,57,Medicare,793.67
+745,27.0,Female,Urgent Care,Neurology,50,Uninsured,515.24
+746,61.0,Male,Follow-up,Cardiology,34,Medicare,914.27
+747,19.0,M,Routine Checkup,Neurology,61,Medicare,1493.81
+748,30.0,female,Routine Checkup,Orthopedics,22,Medicaid,681.13
+749,57.0,Female,Follow-up,Orthopedics,55,Uninsured,1385.0
+750,19.0,Male,Follow-up,Cardiology,52,Medicare,550.27
+751,82.0,Male,Consultation,Cardiology,70,Medicare,129.36
+752,80.0,Male,Consultation,Neurology,12,Uninsured,346.15
+753,34.0,female,Consultation,Dermatology,26,Private,657.11
+754,26.0,Male,Follow-up,Cardiology,10,Private,368.47
+755,32.0,FEMALE,Follow-up,General Practice,80,Medicare,50.33
+756,41.0,FEMALE,Urgent Care,Orthopedics,61,Medicare,1376.75
+757,55.0,Male,Consultation,General Practice,40,Private,1273.63
+758,52.0,FEMALE,Consultation,Orthopedics,83,Medicaid,1126.32
+759,66.0,Female,Consultation,Orthopedics,61,Uninsured,293.33
+760,150.0,FEMALE,Routine Checkup,Cardiology,53,Uninsured,224.53
+761,77.0,Male,Urgent Care,Cardiology,49,Medicaid,148.03
+762,67.0,M,Consultation,General Practice,86,Medicaid,1099.84
+763,26.0,Female,Consultation,Orthopedics,70,Medicaid,1396.77
+764,51.0,female,Consultation,General Practice,81,Medicaid,674.28
+765,52.0,Male,Routine Checkup,Dermatology,49,Medicaid,222.75
+766,18.0,female,Routine Checkup,General Practice,83,Medicaid,792.97
+767,57.0,M,Follow-up,Neurology,24,Uninsured,555.81
+768,81.0,female,Urgent Care,General Practice,68,Medicaid,593.5
+769,39.0,Male,Follow-up,Neurology,71,Private,950.93
+770,77.0,Male,Urgent Care,Neurology,87,Medicaid,1092.14
+771,81.0,M,Routine Checkup,Neurology,7,Medicaid,210.38
+772,28.0,Male,Consultation,Dermatology,58,Uninsured,101.61
+773,150.0,M,Follow-up,General Practice,82,Uninsured,1491.78
+774,77.0,M,Consultation,General Practice,68,Medicaid,387.46
+775,47.0,Male,Follow-up,Dermatology,44,Uninsured,128.05
+776,150.0,FEMALE,Routine Checkup,Orthopedics,63,Medicare,325.32
+777,54.0,M,Routine Checkup,Cardiology,59,Uninsured,106.49
+778,22.0,Male,Routine Checkup,General Practice,66,Uninsured,618.13
+779,43.0,FEMALE,Follow-up,Cardiology,8,Uninsured,1213.48
+780,79.0,M,Urgent Care,Dermatology,64,Uninsured,544.8
+781,21.0,FEMALE,Follow-up,Orthopedics,79,Private,694.07
+782,59.0,Female,Urgent Care,Orthopedics,34,Private,1029.6
+783,35.0,Female,Follow-up,Orthopedics,6,Private,787.9
+784,57.0,FEMALE,Follow-up,Dermatology,66,Medicaid,1299.1
+785,56.0,M,Routine Checkup,Neurology,53,Medicaid,1305.75
+786,31.0,Male,Consultation,Neurology,13,Medicare,64.37
+787,49.0,female,Consultation,Cardiology,35,Private,1178.17
+788,68.0,Male,Urgent Care,Neurology,65,Medicaid,718.06
+789,55.0,female,Consultation,Neurology,83,Uninsured,1483.82
+790,40.0,female,Follow-up,Orthopedics,52,Uninsured,750.69
+791,80.0,M,Follow-up,Orthopedics,29,Private,1481.0
+792,32.0,FEMALE,Routine Checkup,Cardiology,40,Medicare,1144.13
+793,42.0,Male,Routine Checkup,General Practice,12,Medicare,410.48
+794,34.0,FEMALE,Consultation,Cardiology,77,Uninsured,830.67
+795,83.0,Female,Urgent Care,Cardiology,62,Medicare,1488.6
+796,70.0,M,Consultation,Dermatology,49,Private,1293.42
+797,68.0,M,Consultation,Dermatology,66,Uninsured,191.18
+798,56.0,Female,Consultation,Cardiology,43,Medicaid,1074.24
+799,68.0,Male,Consultation,Cardiology,62,Medicaid,551.09
+800,23.0,Female,Follow-up,Cardiology,85,Medicare,60.12
+801,84.0,Male,Urgent Care,Neurology,87,Uninsured,635.05
+802,24.0,female,,Dermatology,68,Uninsured,390.39
+803,68.0,M,,Cardiology,48,Medicaid,1237.36
+804,59.0,Male,Routine Checkup,Orthopedics,33,Uninsured,539.13
+805,81.0,FEMALE,Consultation,Orthopedics,63,Uninsured,1249.91
+806,32.0,FEMALE,Follow-up,Neurology,75,Uninsured,50.87
+807,46.0,M,Urgent Care,Neurology,-15,Medicare,496.34
+808,50.0,Female,Routine Checkup,General Practice,10,Uninsured,399.69
+809,44.0,Female,Routine Checkup,General Practice,33,Private,388.67
+810,53.0,Male,Consultation,General Practice,62,Medicare,148.87
+811,46.0,Female,Urgent Care,Neurology,21,Uninsured,321.33
+812,55.0,M,Follow-up,Neurology,20,Uninsured,855.55
+813,74.0,Male,Consultation,Neurology,7,Private,472.47
+814,44.0,female,Follow-up,Orthopedics,25,Medicare,655.22
+815,72.0,Female,Routine Checkup,Neurology,68,Medicaid,596.46
+816,50.0,Female,Follow-up,Orthopedics,40,Medicaid,1320.06
+817,83.0,Male,Follow-up,General Practice,66,Medicare,1362.68
+818,27.0,FEMALE,Consultation,General Practice,46,Uninsured,764.79
+819,22.0,Female,Follow-up,General Practice,80,Uninsured,528.73
+820,55.0,M,Consultation,Cardiology,46,Medicaid,204.86
+821,30.0,Female,Routine Checkup,Cardiology,65,Medicaid,1432.43
+822,48.0,female,Consultation,Dermatology,17,Medicaid,137.33
+823,64.0,Female,Consultation,Dermatology,15,Private,481.59
+824,69.0,FEMALE,Urgent Care,Dermatology,58,Medicaid,482.2
+825,73.0,Female,Follow-up,Cardiology,20,Private,514.58
+826,32.0,Male,Routine Checkup,Cardiology,12,Medicare,288.22
+827,46.0,Female,Consultation,Dermatology,63,Uninsured,1185.58
+828,25.0,FEMALE,Routine Checkup,Dermatology,61,Medicaid,227.62
+829,22.0,Male,Urgent Care,Neurology,44,Uninsured,970.61
+830,46.0,M,Follow-up,Dermatology,63,Uninsured,229.58
+831,64.0,Male,Consultation,Neurology,6,Medicaid,152.28
+832,62.0,female,Follow-up,Orthopedics,80,Medicaid,1368.67
+833,19.0,Male,Urgent Care,Cardiology,14,Medicare,325.69
+834,150.0,M,Urgent Care,Dermatology,48,Private,1240.81
+835,53.0,Female,Routine Checkup,Cardiology,15,Private,839.71
+836,53.0,Male,Consultation,Cardiology,83,Uninsured,162.89
+837,43.0,Male,Routine Checkup,Cardiology,84,Medicaid,1435.4
+838,150.0,Male,Urgent Care,Orthopedics,85,Medicare,408.09
+839,44.0,Male,Follow-up,General Practice,6,Medicare,1296.49
+840,37.0,M,Routine Checkup,Dermatology,54,Medicare,294.77
+841,28.0,FEMALE,Routine Checkup,General Practice,16,Medicare,1288.22
+842,55.0,FEMALE,Follow-up,General Practice,27,Medicare,69.18
+843,23.0,Male,Routine Checkup,General Practice,22,Private,792.08
+844,40.0,M,,Cardiology,66,Private,1165.69
+845,64.0,M,Consultation,Neurology,66,Private,1405.45
+846,63.0,Male,Follow-up,Cardiology,42,Medicaid,1368.34
+847,29.0,female,Consultation,Cardiology,71,Uninsured,1238.46
+848,30.0,Male,Follow-up,General Practice,42,Medicare,1337.88
+849,79.0,female,Urgent Care,Cardiology,71,Medicaid,338.87
+850,77.0,Male,Urgent Care,General Practice,65,Medicare,462.07
+851,60.0,female,Consultation,Neurology,5,Private,469.0
+852,22.0,female,Consultation,Dermatology,49,Medicaid,596.73
+853,54.0,Male,Urgent Care,General Practice,32,Private,620.31
+854,48.0,female,Consultation,Neurology,25,Medicare,839.61
+855,26.0,Female,Follow-up,Dermatology,17,Medicare,281.83
+856,68.0,FEMALE,Follow-up,Orthopedics,31,Uninsured,1052.31
+857,46.0,M,Urgent Care,General Practice,11,Medicare,292.97
+858,57.0,female,Routine Checkup,General Practice,26,Private,499.95
+859,58.0,female,Follow-up,Orthopedics,78,Medicare,779.85
+860,28.0,M,Consultation,Orthopedics,57,Uninsured,1204.84
+861,40.0,female,Routine Checkup,General Practice,83,Uninsured,1122.23
+862,18.0,M,Routine Checkup,Orthopedics,83,Private,986.02
+863,63.0,Male,Follow-up,Cardiology,8,Medicaid,275.87
+864,38.0,Female,Follow-up,Dermatology,27,Medicare,843.22
+865,53.0,Female,Routine Checkup,Dermatology,74,Uninsured,176.8
+866,71.0,FEMALE,Routine Checkup,Dermatology,88,Medicare,597.18
+867,74.0,female,Urgent Care,Cardiology,88,Medicare,649.6
+868,18.0,FEMALE,Consultation,Orthopedics,80,Medicaid,107.73
+869,80.0,Male,Urgent Care,Neurology,37,Uninsured,447.28
+870,71.0,Female,Follow-up,Orthopedics,32,Medicare,1435.69
+871,72.0,Male,Urgent Care,General Practice,12,Uninsured,1432.77
+872,57.0,Male,Urgent Care,Dermatology,5,Private,560.87
+873,32.0,female,Urgent Care,Orthopedics,41,Private,112.5
+874,38.0,Male,Urgent Care,Neurology,67,Medicare,309.69
+875,64.0,Female,Consultation,General Practice,26,Uninsured,618.72
+876,70.0,FEMALE,Consultation,Cardiology,74,Medicare,1424.28
+877,26.0,Female,Routine Checkup,Cardiology,25,Uninsured,254.74
+878,69.0,female,Follow-up,Neurology,39,Uninsured,1157.1
+879,74.0,Female,Urgent Care,General Practice,83,Medicaid,207.59
+880,43.0,M,Routine Checkup,Dermatology,9,Medicaid,1472.82
+881,58.0,FEMALE,Routine Checkup,Orthopedics,64,Medicaid,603.34
+882,52.0,M,Routine Checkup,General Practice,50,Medicare,1174.09
+883,80.0,M,Consultation,Cardiology,54,Medicaid,546.76
+884,,female,Urgent Care,Neurology,52,Medicaid,960.12
+885,55.0,Male,Urgent Care,Neurology,10,Private,328.42
+886,19.0,M,Follow-up,Orthopedics,60,Uninsured,261.73
+887,24.0,Female,Urgent Care,Neurology,63,Uninsured,1410.19
+888,51.0,Male,Urgent Care,Neurology,33,Medicaid,1380.59
+889,34.0,Female,Routine Checkup,General Practice,75,Uninsured,1336.83
+890,60.0,Female,Follow-up,Dermatology,81,Private,956.88
+891,76.0,Male,Urgent Care,Orthopedics,22,Private,1221.99
+892,68.0,Male,Consultation,General Practice,6,Medicaid,150.1
+893,71.0,Female,Urgent Care,Dermatology,12,Private,535.44
+894,41.0,female,Routine Checkup,General Practice,-15,Uninsured,504.87
+895,42.0,FEMALE,Consultation,General Practice,58,Medicare,971.69
+896,69.0,FEMALE,Routine Checkup,Neurology,42,Uninsured,566.14
+897,50.0,female,Urgent Care,Dermatology,52,Medicare,265.33
+898,66.0,Male,Consultation,Orthopedics,31,Medicaid,914.88
+899,46.0,Female,Follow-up,Orthopedics,24,Medicare,1230.86
+900,80.0,FEMALE,Follow-up,Dermatology,16,Private,604.08
+901,39.0,Female,Consultation,Neurology,47,Uninsured,241.79
+902,43.0,female,Consultation,Cardiology,65,Medicare,335.2
+903,150.0,Female,Routine Checkup,General Practice,35,Uninsured,394.35
+904,66.0,female,Consultation,Neurology,65,Medicaid,484.85
+905,66.0,Male,Routine Checkup,Dermatology,78,Medicaid,982.05
+906,150.0,female,Urgent Care,General Practice,71,Private,921.37
+907,80.0,female,Routine Checkup,Orthopedics,39,Medicaid,1059.32
+908,78.0,FEMALE,Consultation,Cardiology,19,Medicare,575.63
+909,66.0,Female,Consultation,Orthopedics,20,Medicaid,1244.8
+910,18.0,FEMALE,Urgent Care,Dermatology,17,Private,345.93
+911,30.0,M,Consultation,General Practice,39,Uninsured,730.11
+912,68.0,female,Consultation,Dermatology,79,Uninsured,1211.36
+913,73.0,M,Follow-up,General Practice,63,Medicaid,311.23
+914,79.0,FEMALE,Follow-up,Neurology,-15,Medicare,209.3
+915,49.0,Female,Urgent Care,Cardiology,-15,Private,1331.34
+916,47.0,FEMALE,Routine Checkup,Neurology,79,Medicare,547.25
+917,46.0,Female,Follow-up,Neurology,34,Private,1041.61
+918,66.0,Female,Routine Checkup,Dermatology,52,Medicaid,86.76
+919,62.0,Male,Consultation,Cardiology,39,Private,1050.57
+920,47.0,female,Follow-up,General Practice,42,Private,508.35
+921,33.0,FEMALE,Urgent Care,General Practice,35,Medicaid,130.82
+922,150.0,Female,Urgent Care,Orthopedics,82,Medicare,934.23
+923,36.0,FEMALE,Urgent Care,General Practice,28,Medicaid,399.17
+924,35.0,FEMALE,Follow-up,Dermatology,53,Private,610.87
+925,18.0,Female,Routine Checkup,Neurology,36,Medicaid,166.84
+926,64.0,M,Consultation,Neurology,59,Private,263.39
+927,83.0,female,Routine Checkup,Neurology,83,Medicaid,482.07
+928,55.0,female,Routine Checkup,Cardiology,62,Uninsured,180.15
+929,68.0,Male,Consultation,General Practice,7,Uninsured,1370.7
+930,80.0,Male,Consultation,Dermatology,84,Medicaid,58.77
+931,21.0,Male,Follow-up,Cardiology,73,Medicare,751.6
+932,18.0,female,Follow-up,Orthopedics,89,Private,228.71
+933,25.0,M,Follow-up,Dermatology,14,Uninsured,496.13
+934,46.0,female,Follow-up,Dermatology,87,Medicare,1392.79
+935,72.0,female,Follow-up,Dermatology,29,Private,284.46
+936,20.0,female,Consultation,Neurology,72,Uninsured,1450.46
+937,49.0,female,Routine Checkup,Dermatology,65,Uninsured,348.4
+938,27.0,M,Follow-up,General Practice,33,Medicaid,1125.27
+939,51.0,Male,Follow-up,Dermatology,23,Private,842.68
+940,72.0,FEMALE,Routine Checkup,Neurology,47,Medicare,1332.49
+941,49.0,Male,Follow-up,Dermatology,70,Medicare,853.29
+942,67.0,Male,Routine Checkup,Orthopedics,78,Medicare,825.11
+943,24.0,FEMALE,Routine Checkup,Orthopedics,65,Private,333.41
+944,25.0,female,Consultation,Neurology,47,Medicare,291.03
+945,82.0,M,Urgent Care,General Practice,29,Medicare,1378.91
+946,,M,Consultation,General Practice,24,Medicare,525.37
+947,84.0,Male,Urgent Care,Cardiology,52,Medicaid,589.52
+948,76.0,FEMALE,Urgent Care,Neurology,87,Medicaid,1151.74
+949,71.0,Female,Urgent Care,Dermatology,28,Private,541.29
+950,84.0,female,Follow-up,Neurology,15,Private,1430.49
+951,68.0,Male,Consultation,Cardiology,59,Medicare,1120.0
+952,25.0,M,Urgent Care,Neurology,32,Medicaid,916.27
+953,51.0,FEMALE,Routine Checkup,Neurology,73,Uninsured,1327.3
+954,52.0,FEMALE,Follow-up,Cardiology,67,Uninsured,121.93
+955,49.0,Male,Consultation,General Practice,63,Medicare,422.74
+956,63.0,Female,Urgent Care,Dermatology,9,Medicare,724.3
+957,,M,Routine Checkup,Cardiology,55,Medicaid,379.12
+958,54.0,Male,Consultation,Orthopedics,25,Medicaid,1128.66
+959,71.0,Female,Consultation,General Practice,16,Medicaid,1382.85
+960,31.0,FEMALE,Follow-up,Orthopedics,54,Private,664.47
+961,72.0,female,Consultation,General Practice,8,Private,546.09
+962,65.0,M,Follow-up,Dermatology,46,Medicare,1444.25
+963,24.0,M,Urgent Care,Dermatology,88,Private,695.04
+964,24.0,Female,Follow-up,Neurology,42,Medicaid,759.12
+965,50.0,Male,Routine Checkup,Orthopedics,29,Medicaid,559.89
+966,40.0,FEMALE,Follow-up,General Practice,18,Private,1368.85
+967,150.0,Female,Routine Checkup,Dermatology,79,Uninsured,874.99
+968,36.0,female,Follow-up,Cardiology,36,Medicare,1155.15
+969,53.0,female,Consultation,Dermatology,15,Uninsured,1227.12
+970,,female,Urgent Care,Cardiology,65,Medicare,545.68
+971,77.0,Female,Routine Checkup,General Practice,22,Uninsured,678.86
+972,19.0,FEMALE,Follow-up,Dermatology,31,Private,1280.28
+973,18.0,M,Follow-up,Dermatology,59,Medicare,576.72
+974,64.0,Male,Follow-up,General Practice,58,Medicare,1201.21
+975,37.0,M,Consultation,Dermatology,86,Medicare,1414.44
+976,28.0,FEMALE,Consultation,Cardiology,79,Medicaid,953.66
+977,19.0,M,Routine Checkup,Dermatology,25,Medicaid,1125.36
+978,84.0,Female,Routine Checkup,Orthopedics,48,Uninsured,1217.39
+979,29.0,female,Consultation,Neurology,9,Private,1275.31
+980,37.0,FEMALE,Routine Checkup,Cardiology,45,Medicaid,622.83
+981,22.0,FEMALE,Urgent Care,Orthopedics,63,Medicare,124.33
+982,54.0,M,Urgent Care,General Practice,58,Medicaid,632.72
+983,55.0,Female,Consultation,Cardiology,78,Private,1026.95
+984,26.0,M,Routine Checkup,Neurology,26,Medicaid,703.01
+985,,M,Follow-up,Neurology,87,Medicare,1136.0
+986,61.0,FEMALE,Urgent Care,General Practice,69,Uninsured,567.62
+987,41.0,M,Consultation,General Practice,68,Medicare,970.38
+988,47.0,female,Routine Checkup,Cardiology,75,Private,320.31
+989,76.0,M,Consultation,Dermatology,8,Uninsured,1136.59
+990,31.0,female,Follow-up,General Practice,69,Medicaid,841.26
+991,26.0,FEMALE,Urgent Care,Dermatology,19,Medicaid,345.89
+992,57.0,Female,Consultation,Orthopedics,80,Medicaid,473.27
+993,83.0,female,Consultation,Neurology,26,Uninsured,1135.48
+994,42.0,Female,Consultation,Dermatology,51,Medicare,749.77
+995,39.0,Female,Follow-up,Neurology,85,Uninsured,363.25
+996,21.0,female,Consultation,Dermatology,50,Uninsured,1452.54
+997,43.0,FEMALE,Follow-up,Orthopedics,18,Private,1086.93
+998,75.0,Male,Follow-up,General Practice,54,Uninsured,1437.85
+999,46.0,Female,Follow-up,Orthopedics,24,Medicaid,669.3
+1000,54.0,Female,Urgent Care,General Practice,54,Medicare,738.9
+39,31.0,M,Consultation,Cardiology,69,Medicare,132.19
+290,77.0,FEMALE,,Neurology,43,Uninsured,216.96
+525,75.0,M,Consultation,Cardiology,44,Medicare,934.66
+129,47.0,female,Consultation,General Practice,59,Uninsured,90.39
+859,58.0,female,Follow-up,Orthopedics,78,Medicare,779.85
+185,18.0,Male,Urgent Care,Dermatology,44,Uninsured,68.7
+515,20.0,Male,Routine Checkup,Orthopedics,44,Uninsured,1126.29
+9,19.0,Male,Follow-up,Neurology,81,Medicare,667.88
+956,63.0,Female,Urgent Care,Dermatology,9,Medicare,724.3
+184,56.0,Male,,Orthopedics,30,Private,419.0
+366,69.0,M,Urgent Care,Neurology,79,Medicaid,919.22
+777,54.0,M,Routine Checkup,Cardiology,59,Uninsured,106.49
+451,75.0,female,Urgent Care,Neurology,31,Medicaid,1437.24
+262,49.0,Male,Routine Checkup,Dermatology,63,Uninsured,570.0
+532,80.0,Male,Consultation,Dermatology,37,Private,467.87
